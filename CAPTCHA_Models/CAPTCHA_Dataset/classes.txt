@@ -1,0 +1,11 @@
+1 Bicycle
+2 Bridge
+3 Bus
+4 Car
+5 Chimney
+6 Crosswalk
+7 Hydrant
+8 Motorcycle
+9 Palm
+10 Stair
+11 Traffic Light
