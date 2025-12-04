@@ -104,7 +104,7 @@ A dataset of CAPTCHA images for character recognition. Used for training the mod
 ### Prerequisites
 
 - Python 3.8+
-- CUDA-enabled GPU (Will not run on Apple Sillicon)
+- CUDA-enabled GPU (Will not run on Apple Silicon)
 - 16GB+ GPU memory (for Fully-Tuned variants)
 
 ### Required Libraries
@@ -165,7 +165,7 @@ python main.py \
     --checkpoint outputs/best_model.pt
 ```
 
-**Note**: For Base_Model variants (frozen baselines), the `--mode` argument may not be supported. Run without specifying mode:
+**Note**: For Base_Model variants (frozen baselines), the `--mode` argument is not supported. Run without specifying mode:
 
 ```bash
 # Bird - CNN Baseline
