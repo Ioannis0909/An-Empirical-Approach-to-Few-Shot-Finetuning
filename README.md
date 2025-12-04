@@ -91,16 +91,6 @@ A benchmark dataset for fine-grained visual categorization containing 11,788 ima
 
 **Download**: [https://data.caltech.edu/records/65de6-vp158](https://data.caltech.edu/records/65de6-vp158)
 
-**Structure**:
-```
-CUB_200_2011/
-├── images/
-│   ├── 001.Black_footed_Albatross/
-│   ├── 002.Laysan_Albatross/
-│   └── ...
-└── classes.txt
-```
-
 ### CAPTCHA Dataset
 
 A dataset of CAPTCHA images for character recognition. Used for training the models in `CAPTCHA_Models/`.
