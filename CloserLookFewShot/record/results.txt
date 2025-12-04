@@ -1,0 +1,8 @@
+Time: 20251201-210625, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 91.05% +- 0.48% 
+Time: 20251201-211424, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 90.77% +- 0.49% 
+Time: 20251201-212704, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 90.96% +- 0.47% 
+Time: 20251201-213218, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 90.88% +- 0.48% 
+Time: 20251201-213730, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 90.99% +- 0.48% 
+Time: 20251201-214236, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 90.76% +- 0.47% 
+Time: 20251201-214740, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 90.57% +- 0.48% 
+Time: 20251201-215335, Setting: CUB-novel-ResNet18_Pretrained-baseline++ 5shot 5way_test, Acc: 600 Test Acc = 91.00% +- 0.48% 
